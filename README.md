@@ -1,1 +1,1 @@
-gitshell#myshell
+gitshell
